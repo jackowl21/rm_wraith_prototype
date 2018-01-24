@@ -1,0 +1,3 @@
+C:\Users\User\Documents\Wraith_Prototype\MyProject\Source\MyProject\MyProject.Build.cs
+C:\Users\User\Documents\Wraith_Prototype\MyProject\Source\MyProject.Target.cs
+C:\Users\User\Documents\Wraith_Prototype\MyProject\Source\MyProjectEditor.Target.cs
